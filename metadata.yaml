@@ -1,5 +1,5 @@
 _repo: Little-Joe-Otter_65314
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Cady, Harrison
@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '8456'
     url: http://www.gutenberg.org/2009/agents/8456
     wikipedia: https://en.wikipedia.org/wiki/Harrison_Cady
+covers:
+- cover_type: archival
+  image_path: 65314-h/images/cover.jpg
 creator:
   author:
     agent_name: Burgess, Thornton W. (Thornton Waldo)
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/717
     wikipedia: https://en.wikipedia.org/wiki/Thornton_Burgess
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65314#Little-Joe-Otter
 gutenberg_issued: '2021-05-10'
 gutenberg_type: Text
 identifiers:
